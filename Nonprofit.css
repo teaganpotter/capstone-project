@@ -1,0 +1,17 @@
+.np-box{
+    padding: 75px;
+}
+
+.np-clickable{
+    cursor: pointer;
+}
+
+.np-clickable:hover{
+    font-weight: bold;
+}
+
+.title{
+    text-align: center;
+    font-size: 45px;
+    
+}

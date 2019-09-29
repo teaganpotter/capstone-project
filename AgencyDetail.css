@@ -1,0 +1,25 @@
+.ad-header{
+    font-weight: bold;
+
+}
+
+.ad-box{
+    display: inline-block;
+    margin: 10px;
+    border: 1px solid #eee;
+    box-shadow: 0 2px 2px #ccc;
+    padding: 20px;
+    max-width: 600px;
+    background-color: #E8E8E8;
+    border-radius:20px;
+}
+
+.ad-flex{
+    display: flex;
+    justify-content: center;
+    padding-top: 40px;
+}
+
+.tab{
+    margin-left: 25px;
+}

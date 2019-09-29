@@ -251,5 +251,5 @@ const mapStyles = {
               };
             
 export default GoogleApiWrapper({
-                    apiKey: ('AIzaSyC2wmWMjh6-qrsRSwDwLZ5LAyxBcOs4emA')
+                    apiKey: ('ApiKey')
             })(Home);
